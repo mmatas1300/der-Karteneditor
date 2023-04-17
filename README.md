@@ -1,6 +1,6 @@
 # Der Karteneditor
 
-A web app designed to learn german words (nouns, verbs, adjectives, etc.) and sentences. The topics are obtained from the book "Netzwerk neu" published by Klett.
+A desktop app designed to add cards to "die Wortschatzkartei".
 
 ## Screenshot
 
